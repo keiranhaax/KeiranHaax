@@ -13,12 +13,17 @@
 
 ## Projects
 
-- 🎵 **[Fonic HiFi](https://github.com/keiranhaax/fonic-hifi)** — Audiophile music player for iOS. Bit-perfect lossless playback up to 32-bit/384kHz. Multi-engine architecture (AVAudioEngine + AudioKit), gapless transitions, zero network access. Built with Swift 6, SwiftUI, and SwiftData.
+- 🎵 **[Fonic HiFi](https://github.com/keiranhaax/fonic-hifi-app)** — Audiophile music player for iOS. Bit-perfect lossless playback up to 32-bit/384kHz, gapless transitions, zero network access. Privacy by design — no analytics, no cloud, no permissions you didn't ask for.
 
-- 🤖 **[halie-cli](https://github.com/keiranhaax/halie-cli)** — AI terminal assistant with split personality: `/coder` for repo surgery, `/researcher` for deep web synthesis. Multi-source search (Exa, Tavily, Brave), session persistence, crash recovery.
+- 🩺 **[Halie App](https://github.com/keiranhaax/Halie-App)** — iOS health monitoring with 40+ metrics, recovery scoring, and an AI health coach powered by Apple Foundation Models. All on-device, zero cloud dependency.
 
-- 📊 **[mrktr](https://github.com/keiranhaax/mrktr)** — Reseller price research from the terminal. Searches eBay, Mercari, Amazon, and Facebook Marketplace simultaneously. TF-IDF query expansion, profit calculators, vim-style navigation. Built with Go and Bubble Tea.
+- 🤖 **[halie-cli](https://github.com/keiranhaax/halie-cli)** — AI terminal assistant with a split personality: `/coder` for repo surgery, `/researcher` for deep web synthesis with multi-source search and crash recovery.
 
+- 📊 **[mrktr](https://github.com/keiranhaax/mrktr)** — Reseller price research from the terminal. Searches eBay, Mercari, Amazon, and Facebook Marketplace simultaneously with TF-IDF query expansion and profit calculators. Go + Bubble Tea.
+
+- 🎮 **[trade-projectGS](https://github.com/keiranhaax/trade-projectGS)** — GameStop trade-in value checker. Batch-process 20+ games with smart caching, retry logic, and CSV export. Python + Firecrawl.
+
+- 🧠 **ADHD Assist** *(coming soon)* — Assistive technology platform for people with ADHD. Personalized cognitive aids and adaptive productivity tools powered by on-device ML. Building this because I need it.
 ## What Drives the Work
 
 - **Photography shapes my interfaces** — I think in film tones, negative space, and timing before I think in components. The film color science taught me more about UI than any design system.
